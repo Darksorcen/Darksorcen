@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darksorcen&show_icons=true&theme=tokyonight&bg_color=10, #083f75,#85c24c)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darksorcen&show_icons=true&theme=tokyonight&bg_color=#85c24c, #083f75,#85c24c)
 
 
 <!--
